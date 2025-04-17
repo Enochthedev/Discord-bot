@@ -1,0 +1,4 @@
+test-bot/
+scripts/
+node_modules/
+.env

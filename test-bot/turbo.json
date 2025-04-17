@@ -1,9 +1,0 @@
-{
-  "pipeline": {
-    "dev": {
-      "cache": false,
-      "outputs": [],
-      "dependsOn": []
-    }
-  }
-}
