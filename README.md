@@ -1,4 +1,4 @@
-# create-discord-ts-bot
+# Create-discord-ts-bot
 
 [![npm version](https://img.shields.io/npm/v/create-discord-ts-bot.svg)](https://www.npmjs.com/package/create-discord-ts-bot)
 [![Made by Wave](https://img.shields.io/badge/made%20by-wave-8a2be2)](https://wavedidwhat.xyz)
@@ -75,8 +75,11 @@ npx create-discord-ts-bot my-bot
 
 ## 🧑‍💻 Author
 
-Made with ⚡ by Enoch Omosebi (@itsdwave)
+Made with ⚡ by Enoch Omosebi (@wave)
 🔗 Twitter/X: [wave](https://twitter.com/wavedidwhat)
+
 🌐 Portfolio: [wave](https://wavedidwhat.xyz)
+
 🔗 GitHub: [itsdwave](https://github.com/Enochthedev)
+
 🔗 Discord: [wave](https://discord.gg/itsdwave)
