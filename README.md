@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/create-discord-ts-bot.svg)](https://www.npmjs.com/package/create-discord-ts-bot)
 [![Made by Wave](https://img.shields.io/badge/made%20by-wave-8a2be2)](https://wavedidwhat.xyz)
-[![CLI Build](https://github.com/enochthedev/create-discord-ts-bot/actions/workflows/cli-check.yml/badge.svg)](https://github.com/your-username/create-discord-ts-bot/actions)
+[![CLI Build](https://github.com/enochthedev/create-discord-ts-bot/actions/workflows/cli-check.yml/badge.svg)](https://github.com/enochthedev/create-discord-ts-bot/actions)
 
 A CLI tool to scaffold a full-featured TypeScript Discord bot with:
 

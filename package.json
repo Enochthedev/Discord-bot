@@ -1,6 +1,6 @@
 {
   "name": "create-discord-ts-bot",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Create a full-stack TypeScript Discord bot with Prisma and Turbo setup",
   "main": "dist/index.js",
   "bin": {
